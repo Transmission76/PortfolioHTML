@@ -1,11 +1,12 @@
-.container-fluid span{
-    color: aquamarine;
+.dropdown-menu span {
+    color: rgb(230, 16, 16);
 }
 
-.navbar-brand span{
-    color: chartreuse;
+.container-fluid span2 {
+    color: aliceblue;
 }
 
-.nav-link .active {
-    color: blueviolet;
+.container-fluid span3 {
+    color: gold;
 }
+
