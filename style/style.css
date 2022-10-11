@@ -1,0 +1,11 @@
+.container-fluid span{
+    color: aquamarine;
+}
+
+.navbar-brand span{
+    color: chartreuse;
+}
+
+.nav-link .active {
+    color: blueviolet;
+}
