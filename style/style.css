@@ -29,3 +29,12 @@
     width: 1500px;
 
 }
+
+.div {
+    width: 200px;
+    padding: 10px;
+    border: 5px rgb(251, 3, 3);
+    margin: 0px;
+}
+
+
