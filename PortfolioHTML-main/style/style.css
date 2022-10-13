@@ -1,0 +1,40 @@
+.dropdown-menu span {
+    color: rgb(230, 16, 16);
+}
+
+.container-fluid span2 {
+    color: aliceblue;
+}
+
+.container-fluid span3 {
+    color: gold;
+}
+
+.bg {
+    width: 1481px;
+    height: 2000-px;
+}
+
+.bg4 {
+    width: 1481px;
+    height: 1000px;
+}
+
+.bg3 {
+    width: 1500px;
+    height: 600px;
+}
+
+.bg2 {
+    width: 1500px;
+
+}
+
+.div {
+    width: 200px;
+    padding: 10px;
+    border: 5px rgb(251, 3, 3);
+    margin: 0px;
+}
+
+
